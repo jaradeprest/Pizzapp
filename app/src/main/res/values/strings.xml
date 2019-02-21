@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizzapp</string>
+    <string name="txt_btn_size">SIZE</string>
+    <string name="txt_btn_toppings">TOPPINGS</string>
+    <string name="txt_tv_size">Your size</string>
+    <string name="txt_et_toppings">Your toppings</string>
+    <string name="txt_btn_order">ORDER</string>
+    <string name="txt_tv_title">Create your own pizza here:</string>
+</resources>
